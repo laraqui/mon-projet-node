@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
-"devDependencies": {
-  "mocha": "^X.Y.Z"
-},
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -14,4 +13,3 @@
   "author": "",
   "license": "ISC"
 }
-

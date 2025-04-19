@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
 
+"devDependencies": {
+  "mocha": "^X.Y.Z"
+},
   "scripts": {
     "test": "mocha"
   },
